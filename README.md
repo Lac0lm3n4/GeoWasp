@@ -23,6 +23,7 @@
 #### https://github.com/Lac0lm3n4/GeoWasp.git
 #### cd GeoWasp  
 #### chmod +* geowasp
+#### chmod 777 -R (dirección del archivo GeoWasp sin comillas)
 #### ./geowasp
 
 usar herramienta bajo su responsabilidad, modificación Koroni.
